@@ -1,9 +1,17 @@
-//
-//  main.cpp
-//  NWetzler_HW1
-//
-//  Created by Nadine Wetzler  on 12/11/21.
-//
+
+/*
+ * Class: CMSC140 CRN 20433_22867
+ * Instructor: Grigoriy A. Grinberg
+ * Homework 8
+ * Description: write a program that calculates the occupancy rate
+   and the total hotel income for one night and displays this
+   information as well as some other information described below.
+ * Due Date: 12/13/21
+ * I pledge that I have completed the programming assignment independently.
+   I have not copied the code from a student or any source.
+   I have not given my code to any student.
+   Print your Full Name here: Nadine Wetzler
+*/
 
 #include <iostream>
 #include <cmath>
